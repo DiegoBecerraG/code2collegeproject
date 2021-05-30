@@ -1,0 +1,15 @@
+{
+  "name": "first-bolt-app",
+  "version": "1.0.0",
+  "description": "Project for Code2College",
+  "main": "index.js",
+  "scripts": {
+    "test": "test", 
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.3.0"
+  }
+}
